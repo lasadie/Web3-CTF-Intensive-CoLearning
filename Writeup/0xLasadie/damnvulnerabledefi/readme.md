@@ -15,9 +15,9 @@
 | Free Rider         | ✅        |
 | Backdoor           | ✅        |
 | Climber            | ✅        |
-| Wallet Mining      |         |
+| Wallet Mining      | ❌        |
 | Puppet V3         | ✅        |
 | ABI Smuggling      | ✅        |
 | Shards             | ✅        |
-| Curvy Puppet       |         |
+| Curvy Puppet       | ❌        |
 | Withdrawal         | ✅        |
